@@ -43,12 +43,8 @@ Não é uma boa pratica fazer os comentarios grandes como os ques eu fiz, mas pa
 principalmente para a <a href=''>question-3.js</a>
 
 ---
-### Autor
 
-<img />
+Todos os codigos e comentarios são de aoutoria de <a href='https://github.com/GeyzonErik'>Geyzon Costa</a>
 
-
-
-
-
-
+<a center href='https://twitter.com/Erikles47' target='_blank'> <img src='https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Twitter5_svg-512.png' width='42px'> </a>
+<a href='https://www.linkedin.com/in/josé-costa-json/' target='_blank'> <img src='https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-512.png' width='42px'> </a>
