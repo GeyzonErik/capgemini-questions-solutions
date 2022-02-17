@@ -23,9 +23,13 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
     git clone https://github.com/GeyzonErik/capgemini-questions-solutions.git
   ```
 
-2. Acesse a pagina do projeto e selecione a questão que deseja executar.
+2. Acesse a pasta do projeto e selecione a questão que deseja executar.
 
 3. Execute cada aplicação com o codigo:
+> Para executar você pode usar o terminal do VScode apertando ctrl+j
+> 
+> Ou abrir a pasta do projeto em algum terminal de sua preferencia
+
 
 ```node
   node (nome-projeto).js
